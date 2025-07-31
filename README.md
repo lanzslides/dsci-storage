@@ -10,6 +10,6 @@ A small collection of interesting projects I have done throughout the completion
 * MATH 62.2 - Linear Time Series Models
 * MATH 103.1 - Predictive Modeling for Text
 
-## Graduate Courses
+### Graduate Coursework
 * CSCI 217 - Data Visualization
 * MATH 271.2 - Advanced Time Series and Forecasting
